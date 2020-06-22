@@ -1,0 +1,132 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  color: #b1b493;
+  }
+
+h1{
+  margin: 40px auto 0 auto;
+  font-family: 'Meddon', cursive;
+  font-size: 3rem;
+  color: #c36a2d;
+}
+
+h2{
+  margin: 20px auto 0 auto;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 2rem;
+  color: #c36a2d;
+  font-weight: normal;
+}
+
+h3{
+  color: #c36a2d;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #c36a2d;
+  font-family: 'Playfair Display', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #e2c275;
+}
+
+hr{
+  border: dotted #e2c275 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container{
+  padding-top: 100px;
+  background-color: #eadca6;
+  position: relative;
+}
+
+.middle-container{
+  padding: 100px 0;
+}
+
+.profile{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.work-img{
+  width: 20%;
+  height: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.games-img{
+width: 20%;
+height: 20%;
+float: right;
+margin-left: 30px;
+}
+
+.work-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+
+}
+
+.games-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 30%;
+  top: 45%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 60%;
+  }
+
+.contact-me{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.btn {
+  background-color: #c36a2d; /* brown */
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+
+.copyright{
+  color: #e2c275;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.bottom-container{
+  background-color: #eadca6;
+  padding: 50px 0 20px;
+}
